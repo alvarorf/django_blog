@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     'storages',
 ]
 
+CSRF_COOKIE_SECURE = True
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
