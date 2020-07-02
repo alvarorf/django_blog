@@ -2,7 +2,7 @@
 Welcome to my Django blog repository.
 This a sample website using the Django web framework and Python 3 and is deployed to heroku [here!](https://my-awesome-django-app-sample.herokuapp.com/). Users can login/logout, create new posts, update their previous posts, see their post history and upload a profile picture and update it later. Media files are stored in an Amazon Web Services (AWS) S3 bucket. The site can support as many users as the database (Postgresql, although sqlite3 was used in development) can support and the web hosting, of course, allows, and the project can be extended in many ways but, since this is a sample project, I didn't want to dedicate more time to it.
 
-Thank you for visiting. You can see more of my projects here in github, or in my ![portfolio website](https://alvarorf.github.io/cv).
+Thank you for visiting. You can see more of my projects here in github, or in my [portfolio website](https://alvarorf.github.io/cv).
 
 ### Built with
 - Django
